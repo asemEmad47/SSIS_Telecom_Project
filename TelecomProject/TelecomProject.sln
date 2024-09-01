@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35130.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "TelecomProject", "TelecomProject\TelecomProject.dtproj", "{BE9F84F9-8BD9-4556-B85F-46814741A2D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE9F84F9-8BD9-4556-B85F-46814741A2D3}.Development|Default.ActiveCfg = Development
+		{BE9F84F9-8BD9-4556-B85F-46814741A2D3}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7D8E9DD-A752-455B-87DD-D79D7C834754}
+	EndGlobalSection
+EndGlobal
